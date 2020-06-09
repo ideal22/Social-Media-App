@@ -1,0 +1,4 @@
+export const IS_REGISTERED = "IS_REGISTERED";
+export const SET_REGISTER_DATA = "SET_REGISTER_DATA";
+export const SET_LOGIN_DATA = "SET_LOGIN_DATA";
+export const SET_IS_LOGGED_IN = "SET_IS_LOGGED_IN";
